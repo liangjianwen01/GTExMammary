@@ -1,4 +1,5 @@
 # GTExMammary
+Intput the document of gene expression to data_clean.R to select the samples of breast.
 Input the CSV table of image features to tidy.R for organizing your data and confirming the number of clusters.
 Input the organized data to ./DeepClustering/main.py for clustering.
 Input the clustering result to Clustermap.R for generating the heatmap.
